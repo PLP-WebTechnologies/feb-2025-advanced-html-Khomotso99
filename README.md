@@ -43,7 +43,7 @@ Happy Coding! 💻✨
 <!-- External Image from Pexels -->
 <section>
     <h2>Image from Pexels</h2>
-    <img src="https://images.pexels.com/photos/335037/pexels-photo-335037.jpeg" alt="Beautiful Landscape" width="600">
+    <img src="https://images.pexels.com/photos/335037/pexels-photo-335037" alt="Beautiful Landscape" width="600">
 </section>
 
 <!-- Table of 5 Contacts -->
@@ -60,33 +60,33 @@ Happy Coding! 💻✨
         </thead>
         <tbody>
             <tr>
-                <td>John Doe</td>
+                <td>Lesedi lebelo</td>
                 <td>123 Main St, City</td>
-                <td>123-456-7890</td>
-                <td>john.doe@email.com</td>
+                <td>0729555593</td>
+                <td>les.doe@email.com</td>
             </tr>
             <tr>
-                <td>Jane Smith</td>
+                <td>Hope Smith</td>
                 <td>456 Elm St, City</td>
-                <td>234-567-8901</td>
-                <td>jane.smith@email.com</td>
+                <td>0725622965</td>
+                <td>hopes.smith@email.com</td>
             </tr>
             <tr>
                 <td>Mark Taylor</td>
                 <td>789 Oak St, City</td>
-                <td>345-678-9012</td>
+                <td>08176543872</td>
                 <td>mark.taylor@email.com</td>
             </tr>
             <tr>
-                <td>Lucy Adams</td>
+                <td>Ingrid Sithole</td>
                 <td>101 Pine St, City</td>
-                <td>456-789-0123</td>
-                <td>lucy.adams@email.com</td>
+                <td>0733765990</td>
+                <td>ingi.sithole@email.com</td>
             </tr>
             <tr>
                 <td>Paul Brown</td>
                 <td>202 Cedar St, City</td>
-                <td>567-890-1234</td>
+                <td>0795547210</td>
                 <td>paul.brown@email.com</td>
             </tr>
         </tbody>
